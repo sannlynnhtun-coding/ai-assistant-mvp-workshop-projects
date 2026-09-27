@@ -37,3 +37,11 @@ These working MVPs were created by participants during the AI-Assisted Digital P
 - **Project Description:** A parking operator system for recording vehicle arrivals and departures, monitoring currently parked vehicles, reviewing parking history and daily logs, and tracking daily revenue and service statistics.
 - **Live Demo:** [parking-management-system-lilac.vercel.app](https://parking-management-system-lilac.vercel.app/)
 - **Source Code:** [github.com/ShinThantNaung/Parking-Management-System](https://github.com/ShinThantNaung/Parking-Management-System)
+
+### 5. YaungMal-PyinMal
+
+- **Participant Name:** Thein Htet Aung
+- **Project Name:** YaungMal-PyinMal (ရောင်းမယ် ပြင်မယ်)
+- **Project Description:** A laptop-shop POS and service management system that combines sales, inventory, repair ticketing, warranty tracking, analytics, and role-based staff access in a bilingual English and Myanmar interface.
+- **Live Demo:** [yaung-mal-pyin-mal.vercel.app](https://yaung-mal-pyin-mal.vercel.app/)
+- **Source Code:** [github.com/theinhtetaung-dev/YaungMal-PyinMal](https://github.com/theinhtetaung-dev/YaungMal-PyinMal)
