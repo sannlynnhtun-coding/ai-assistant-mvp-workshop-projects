@@ -87,3 +87,11 @@ These working MVPs were created by participants during the AI-Assisted Digital P
 - **Project Description:** A Myanmar-focused travel information and service-posting platform where users can discover and publish destinations, tour packages, transportation services, and hotel listings.
 - **Live Demo:** Not provided
 - **Source Code:** [github.com/thirilinn-dev/TripHub](https://github.com/thirilinn-dev/TripHub)
+
+### 11. Inkora Stationery POS
+
+- **Participant Name:** Khaing Thazin Tun
+- **Project Name:** Inkora Stationery POS
+- **Project Description:** A stationery e-commerce and point-of-sale system with customer shopping, authentication, inventory management, order processing, and sales analytics.
+- **Live Demo:** [inkora-stationery-pos.vercel.app](https://inkora-stationery-pos.vercel.app/)
+- **Source Code:** [github.com/khaingthazintun/Inkora-Stationery-POS](https://github.com/khaingthazintun/Inkora-Stationery-POS)
