@@ -79,3 +79,11 @@ These working MVPs were created by participants during the AI-Assisted Digital P
 - **Project Description:** A professional training and course-enrollment platform where learners can explore industry-focused programs, review course details and schedules, and enroll in upcoming cohorts.
 - **Live Demo:** [skillup-academy-five.vercel.app](https://skillup-academy-five.vercel.app/)
 - **Source Code:** [github.com/SnowFairy107/SkillUpAcademy](https://github.com/SnowFairy107/SkillUpAcademy)
+
+### 10. TripHub
+
+- **Participant Name:** Thiri Linn
+- **Project Name:** TripHub
+- **Project Description:** A Myanmar-focused travel information and service-posting platform where users can discover and publish destinations, tour packages, transportation services, and hotel listings.
+- **Live Demo:** Not provided
+- **Source Code:** [github.com/thirilinn-dev/TripHub](https://github.com/thirilinn-dev/TripHub)
