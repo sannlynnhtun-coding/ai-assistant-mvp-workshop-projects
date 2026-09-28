@@ -74,7 +74,7 @@ These working MVPs were created by participants during the AI-Assisted Digital P
 
 ### 9. SkillUp Academy
 
-- **Participant Name:** Not provided
+- **Participant Name:** Phyu Hnin Aung
 - **Project Name:** SkillUp Academy
 - **Project Description:** A professional training and course-enrollment platform where learners can explore industry-focused programs, review course details and schedules, and enroll in upcoming cohorts.
 - **Live Demo:** [skillup-academy-five.vercel.app](https://skillup-academy-five.vercel.app/)
